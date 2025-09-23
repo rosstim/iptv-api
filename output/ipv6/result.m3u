@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/rosstim/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-21 18:39:09
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-23 18:40:09
 http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c$订阅源
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://www.freetv.top/migu/641886683.m3u8?migutoken=cea30189b17e30fb3b4876609eb6e3128f840f8ab5db6f9643403213dc9980613938be69b13fe0290d2c44f0052b78d90c669a2f92e28951f92da861b7cba070b55ec1b4fe1a92a2c133c43c4c$订阅源
@@ -9,8 +9,6 @@ https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200
 http://www.freetv.top/migu/641886773.m3u8?migutoken=752524a725f1fe3e2f8566518e97cd59f827e367318341fa56132b91af956b4e1cd85f255dd26352c1e9611c76770d0ba4afaf07d71eb65ec9859b3d8239dd7806fb2b21c9410b3e062eab2fcc$订阅源
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://www.freetv.top/migu/624878396.m3u8?migutoken=3adcad950884d4ecc6c6967edee9c162189a1e09480eb5c29b369864aeedaed43c3f951d7eb6c32d86baac49792aacb3264b8f074e746477064fd7b1f172f00a9d84373825617d4366e8c54f0c$订阅源
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="📺央视频道",CCTV-6
-https://cc06.tv12.xyz/7.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d$订阅源
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="📺央视频道",CCTV-7
